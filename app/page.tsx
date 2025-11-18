@@ -7,7 +7,7 @@ export default function JokerFeaturesPage() {
       <section className="py-16 text-center bg-gradient-to-br from-purple-100 to-red-50">
         <div className="container mx-auto px-4">
           <h1 className="text-6xl font-bold text-gray-900 mb-6">
-            🤡 Joker's Prateek's Features 🃏
+            🤡 Joker Prateek's Features 🃏
           </h1>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
             Why so serious? Discover features that'll make you laugh maniacally!
@@ -79,14 +79,14 @@ export default function JokerFeaturesPage() {
               </p>
             </div>
           </div>
-           <div className='mt-16'>
-              <h2 className="text-4xl font-bold text-center text-gray-900 mb-4">
-           kiss do kiss do photo doo snap bhj doo plss dekhe kr delete kr duga aise bolta h loduuu
-          </h2>
-          <p className="text-xl text-gray-600 text-center mb-12 max-w-2xl mx-auto">
-           or bolta h raat ko maire enary levels high rahte h ek no ka chutiya h mcc
-          </p>
-           </div>
+          <div className='mt-16'>
+            <h2 className="text-4xl font-bold text-center text-gray-900 mb-4">
+              kiss do kiss do photo doo snap bhj doo plss dekhe kr delete kr duga aise bolta h loduuu
+            </h2>
+            <p className="text-xl text-gray-600 text-center mb-12 max-w-2xl mx-auto">
+              or bolta h raat ko maire energy levels high rahte h ek no ka chutiya h mcc
+            </p>
+          </div>
         </div>
       </section>
 
@@ -102,7 +102,7 @@ export default function JokerFeaturesPage() {
             chutiya h ek no kaa loduuuu
           </p>
 
-          <div className="grid grid-cols-2 md:grid-cols-2 gap-6 max-w-4xl mx-auto">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl mx-auto">
             {/* Mobile Screenshot 1 */}
             <div className="text-center transform hover:scale-105 transition">
               <div className="bg-gradient-to-br from-purple-900 to-pink-800 rounded-3xl p-4 mb-4 mx-auto max-w-[360px] shadow-2xl border-4 border-yellow-400">
